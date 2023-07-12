@@ -1,7 +1,7 @@
 ## ASSIGNMENT 03 - WEBSITE THƯƠNG MẠI ĐIỆN TỬ
 - Author: Phạm Quang Hoàn
 
-### SERVER:
+### SERVER: Demo: https://boutique-ng5l.onrender.com/
 - Database: Mongoose Database
 - Đây là server API nội bộ, chưa có phiên bản API cho các nhà phát triển của bên thứ ba
 
