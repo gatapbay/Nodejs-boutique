@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "64a780f514e5e413acf63175"
+  },
+  "fullname": "Leader",
+  "email": "leader@localhost.dev",
+  "password": "$2a$05$OrdGdckmFn/jWqj9x1JA.eN0hlokvOGLg8IojLZM9HR6ijxXEWHc6",
+  "level": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a7cbdf07abba0f8acc3cfb"
+  },
+  "fullname": "Admin",
+  "email": "admin@localhost.dev",
+  "password": "$2a$05$zS2sFBeDo9/7MUgIDmO8muQeEbo9uAGBSEHTuoqK465VkW.tOAlw2",
+  "level": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a7cbed07abba0f8acc3cfe"
+  },
+  "fullname": "CTV",
+  "email": "ctv@localhost.dev",
+  "password": "$2a$05$LyCw1dhuzz0jFE35eQ9OWOc2j8d24Er7MoK.jb8hpXoiG7NflSyb.",
+  "level": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a9400e1f7da7a1f4a60bac"
+  },
+  "fullname": "Client",
+  "email": "client@localhost.dev",
+  "password": "$2a$05$WOzqthxUZIsDG9maTUSDO.GF/Y7oZEnDheJsFLpUgjavqitDYLSOi",
+  "level": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64aadb3c1d896d76ae026afa"
+  },
+  "fullname": "Phạm Quang Hoàn",
+  "email": "quanghoan.photos@gmail.com",
+  "password": "$2a$05$LLXznh7gm8fuu.n5C6M2I.vgzQm7VdZs6THTqaRWYPGa0V06CjRqG",
+  "level": 0,
+  "__v": 0
+}]
